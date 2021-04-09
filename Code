@@ -1,0 +1,6 @@
+
+i = 1
+
+while i <= 50:
+    print(i,'-',format(i * 0.18,'.2f'))
+    i += 1
